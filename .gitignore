@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.DS_Store
+data/
+work/
+hihydrosoil_store_local/
+creds.json
+scratch/
